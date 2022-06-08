@@ -1,0 +1,12 @@
+@import '../../shared';
+
+.count {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $mine-shaft;  
+}
