@@ -2,11 +2,15 @@
 
 .count {
     background-color: white;
-    height: 100px;
-    width: 100px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: $mine-shaft;  
+    color: $mine-shaft; 
+    
+    h1 {
+        font-size: rem(60px);
+    }
 }
